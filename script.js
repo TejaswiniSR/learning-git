@@ -1,3 +1,3 @@
 console.log("hii")
-console.log("hello procoder")
+console.log("hello world")
 //print the code
